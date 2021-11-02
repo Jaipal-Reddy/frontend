@@ -1,0 +1,19 @@
+.Login {
+  margin: 0 auto;
+  margin-top: 70px;
+  max-width: 400px;
+  padding: 40px 40px;
+  /* background: #fff;
+  background-color: rgb(238, 245, 242); */
+}
+.SignUp {
+  margin: 0 auto;
+  margin-top: 10px;
+  max-width: 400px;
+  padding: 40px 40px;
+  background: #fff;
+  background-color: rgb(25, 206, 85);
+  
+}
+
+
